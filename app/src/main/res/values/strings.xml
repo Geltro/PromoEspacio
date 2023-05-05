@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PromoEspacio</string>
+
+    <string name="user_email_placeholder">User/Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="content_descrip_password">Show password</string>
+    <string name="login">Login</string>
+
+    <string name="restore_password">Restore Password</string>
+    <string name="restore">Restore</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="verification_code">Verification code</string>
+
+    <string name="dont_close_app">Please, don´t  close the app.</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="download_files">Downloading files:</string>
+
+    <string name="download_resources">"You are about download the resources needed to use this app witch size is about 3.0 Gb depending on the number of files, do you want to continue?<br />     "</string>
+    <string name="download">Download</string>
+    <string name="login_button">Login</string>
+
+    <string name="error_data_download">Download Error</string>
+    <string name="error_no_internet">There is no Internet</string>
+
+    <string name="error_user_email">User/Email can not be empty</string>
+    <string name="error_password">Password can not be empty</string>
+
+    <string name="user_password">User</string>
+    <string name="update_data_will_be_downloaded">Updated data will be downloaded</string>
+    <string name="continue_without_downloading">Continue without downloading</string>
+    <string name="update_size">Update Size:</string>
+
+
+</resources>
